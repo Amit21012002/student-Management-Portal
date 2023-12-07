@@ -1,25 +1,23 @@
-{
-  "StudentRecords": [
-    {
-      "id": 3,
-      "name": "Manish Soni",
-      "class": "12th",
-      "email": "Manishsoni0504@gmail.com",
-      "mobile": "7428287597"
-    },
-    {
-      "id": 4,
-      "name": "Sumit Soni",
-      "class": "10th",
-      "email": "Sumitsoni3006@gmail.com",
-      "mobile": "496496854"
-    },
-    {
-      "id": 5,
-      "name": "Amit kumar soni",
-      "class": "12th",
-      "email": "Amitkumarsoni2101@gmail.com",
-      "mobile": "9560363926"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Manish Soni",
+    "class": "12th",
+    "email": "Manishsoni0504@gmail.com",
+    "mobile": "7428287597"
+  },
+  {
+    "id": 2,
+    "name": "Sumit Soni",
+    "class": "10th",
+    "email": "Sumitsoni3006@gmail.com",
+    "mobile": "496496854"
+  },
+  {
+    "id": 3,
+    "name": "Amit Kumar Soni",
+    "class": "fsdfsdf",
+    "email": "sdfsdsdf",
+    "mobile": "dsfsdfs"
+  }
+]
